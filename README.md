@@ -22,7 +22,7 @@ If the operation is UPDATE, it picks up the existing record based on the id and 
 
 If the end point is READ, it picks up the id from the param and checks in both CSV and XML, if record is found, it send the response back.
 
-Unit tests have been written for each operation.
+
 
 
 **Topic Name **:  "test_topic".
