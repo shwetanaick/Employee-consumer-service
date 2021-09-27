@@ -25,7 +25,7 @@ If the end point is READ, it picks up the id from the param and checks in both C
 
 
 
-**Topic Name **:  "test_topic".
+**Topic Name ** :  "test_topic".
 READ: http://localhost:9002/file/read/csv2_20-08-2111
 
 Only Read operation is done over HTTP.
